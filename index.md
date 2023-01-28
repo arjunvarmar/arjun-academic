@@ -3,6 +3,13 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Hello there. You have reached the homepage of Arjun Varma R. 
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Arjun is a PhD candidate at the Department of Metallurgical 
+Engineering and Materials Science at the Indian Institute of 
+Technology Bombay. He uses computational techniques such as 
+phase field modelling, discrete dislocation dynamics and 
+atomistic simulations to study the evolution of microstructure
+during deformation and phase transformations.
+
+
