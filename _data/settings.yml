@@ -1,14 +1,14 @@
 menu:
-- {name: 'Projects', url: '/people'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'Projects', url: '/projects'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Blog', url: '/blog'}
+- {name: 'CV', url: '/cv'}
+- {name: 'Contact', url: '/contact'}
 
-people:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+projects:
+- {title: 'Effect of dislocations on phase transformation', 
+   description: '', 
+  } 
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
@@ -18,7 +18,7 @@ courses:
 social:
 - {icon: 'github', link: 'https://github.com/arjunvarmar'}
 - {icon: 'twitter', link: 'https://twitter.com/ajnvma/'}
-- {icon: 'instagram', link: 'https://www.instagram.com/arjun_varma_r/'}
+  #- {icon: 'instagram', link: 'https://www.instagram.com/arjun_varma_r/'}
 - {icon: 'linkedin', link: 'https://in.linkedin.com/in/arjun-varma-r-a5037888?trk=people-guest_people_search-card'}
 
 contacts:
