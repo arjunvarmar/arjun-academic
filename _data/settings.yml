@@ -11,8 +11,7 @@ projects:
    effect of dislocations in phase separation, nucleation and precipitate
    dissolution in binary systems. Solutes in alloys have a strain 
    field around them due to the size difference between the atoms. When 
-   solutes encounter a dislocation,  ', 
-  } 
+   solutes encounter a dislocation,  ' } 
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
