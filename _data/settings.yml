@@ -13,11 +13,6 @@ projects:
    field around them due to the size difference between the atoms. When 
    solutes encounter a dislocation'} 
 
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
-
 social:
 - {icon: 'github', link: 'https://github.com/arjunvarmar'}
 - {icon: 'twitter', link: 'https://twitter.com/ajnvma/'}
