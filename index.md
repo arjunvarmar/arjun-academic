@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hello there. You have reached the homepage of Arjun Varma R. 
+Hello there. You have reached Arjun's homepage. 
 
 Arjun is a PhD candidate at the Department of Metallurgical 
 Engineering and Materials Science at the Indian Institute of 
