@@ -3,13 +3,10 @@ layout: home
 title: "Home"
 ---
 
-Hello there. You have reached Arjun's homepage. 
+Hello there. You have reached my homepage. 
 
-Arjun is a PhD candidate at the Department of Metallurgical 
-Engineering and Materials Science at the Indian Institute of 
-Technology Bombay. He uses computational techniques such as 
-phase field modelling, discrete dislocation dynamics and 
-atomistic simulations to study the evolution of microstructue 
-during deformation and phase transformations.
-
+I am Arjun Varma R., a PhD candidate at the department of
+ [Metallurgical Engg and Materials Science](https://www.iitb.ac.in/mems/) 
+at IIT Bombay, working with [Prof. M P Gururajan](https://sites.google.com/site/gurusofficialhomepage/) 
+and [Prof. Prita Pant](https://www.iitb.ac.in/mems/en/prof-prita-pant). 
 
