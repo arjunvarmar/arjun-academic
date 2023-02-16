@@ -6,7 +6,7 @@ title: "Home"
 Hi! I am Arjun. 
 
 I am a PhD candidate at the department of
- [Metallurgical Engg and Materials Science](https://www.iitb.ac.in/mems/) 
+ [Metallurgical Engineering and Materials Science](https://www.iitb.ac.in/mems/) 
 at IIT Bombay, working with [Prof. M P Gururajan](https://
 sites.google.com/site/gurusofficialhomepage/) 
 and [Prof. Prita Pant](https://www.iitb.ac.in/mems/en/
