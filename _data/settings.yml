@@ -10,6 +10,8 @@ projects:
 - {title: 'Surface diffusion enhanced break-up of nanowire junctions', description: 'blah blah blah'} 
 - {title: 'Electron phonon interaction energy component and its influence in determining the stability order in group IV semiconductor polytypes', description: 'blah blah blah'} 
 
+blog:
+
 social:
 - {icon: 'github', link: 'https://github.com/arjunvarmar'}
 - {icon: 'twitter', link: 'https://twitter.com/ajnvma/'}
