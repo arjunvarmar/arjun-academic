@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Paper on "Dislocation assisted phase separation" published"
+title: "Paper on dislocation assisted phase separation published"
+categories: blog
 ---
 
-Our paper on the phase field study of dislocation assisted phase separation was published today. 
+Our paper on the phase field study of dislocation assisted phase separation has finally been published! 
 
 In this study, we have used the phase field dislocation dynamics simulations coupled with a 
 composition field to study the microstructure evolution around stationary dislocations. 
@@ -24,9 +25,9 @@ dominate respectively.
 
 The paper was published after a long review of a year and 5 months. Extermely happy that we could make it.
 
-Thanks to Dr. Kevin Jacob and Prof. Nagamani Jaya Balila for sharing the APT results (see their study here) 
+Thanks to Dr. Kevin Jacob and Prof. Nagamani Jaya Balila for sharing the APT results (see their study [here](https://doi.org/10.1016/j.mtla.2022.101358)) 
 and for useful discussions, Mr. Abhinav Roy, Prof. Ferdinand Haider and Prof. T A Abinandanan for
 useful discussions on different aspects of the paper; and Prof. Anirban Patra for his careful 
 reading of the manuscript and valuable suggestions.
 
-Here is the link to the paper : Dislocation assisted phase separation: a phase field study!
+Here is the link to the paper! [Dislocation assisted phase separation: a phase field study](https://doi.org/10.1016/j.actamat.2022.118529)
