@@ -3,7 +3,9 @@ layout: home
 title: "Home"
 ---
 
-I am Arjun Varma R., a PhD candidate at the department of
+Hi! I am Arjun. 
+
+I am a PhD candidate at the department of
  [Metallurgical Engg and Materials Science](https://www.iitb.ac.in/mems/) 
 at IIT Bombay, working with [Prof. M P Gururajan](https://
 sites.google.com/site/gurusofficialhomepage/) 
@@ -34,5 +36,5 @@ We are also currently working on a method to integrate
 stress calculations using Fast Fourier transforms into 
 discrete dislocation dynamics simulations.
 
-Here, you will find details about my projects, links to publications, 
-blog entries and a brief CV.
+Here, you will find details about my projects, 
+links to publications, blog entries and a brief CV.
