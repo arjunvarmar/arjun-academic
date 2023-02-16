@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Paper on dislocation assisted phase separation published"
-categories: blog
 ---
 
 Our paper on the phase field study of dislocation assisted phase separation has finally been published! 
