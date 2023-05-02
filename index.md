@@ -25,7 +25,7 @@ Cu-Al system.
 
 I have also spent six months at [GPM2-SIMaP](https://simap.
 grenoble-inp.fr/en/research/simap-directory-gpm2-group), 
-Universit\{'e} Grenoble Alpes as a visiting doctoral fellow 
+Universite Grenoble Alpes as a visiting doctoral fellow 
 in [Prof. Marc Fivel's](https://simap.grenoble-inp.fr
 /en/research/m-fivel-marc) research group. During this 
 fellowship, I worked on an in-house discrete dislocation 

@@ -22,7 +22,7 @@ We have also mapped the parameter space, in terms of compositions, dislocation-s
 interaction and the pipe mobility, at which nucleation and spinodal-dominated phase separation 
 dominate respectively.
 
-The paper was published after a long review of a year and 5 months. Extermely happy that we could make it.
+The paper was published after a long review of a year and 5 months. Happy that it finally came through.
 
 Thanks to Dr. Kevin Jacob and Prof. Nagamani Jaya Balila for sharing the APT results (see their study [here](https://doi.org/10.1016/j.mtla.2022.101358)) 
 and for useful discussions, Mr. Abhinav Roy, Prof. Ferdinand Haider and Prof. T A Abinandanan for
