@@ -5,39 +5,7 @@ menu:
 - {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
 
-projects:
-- {title: 'Dislocation assisted phase transformation', description: 'In this project, we are interested in studying the effect of dislocations on phase transformation.'}
-- {title: 'Surface diffusion enhanced break-up of nanowire junctions', description: 'blah blah blah'} 
-- {title: 'Electron phonon interaction energy component and its influence in 
-  determining the stability order in group IV semiconductor polytypes', 
-  
-  description: 'The use of density functional theory (DFT) in materials science 
-  has revolutionized our ability to understand the properties of materials at 
-  the atomic level. In DFT-based total energy studies, the van der Waals (vdW) 
-  and zero-point vibrational energy (ZPVE) correction terms are commonly included 
-  to obtain energy differences between polymorphs. However, it has been shown 
-  that the electron-phonon interaction (EPI) also plays a significant role in 
-  determining the thermodynamic properties of materials. In our study, 
-  a new correction term to the total energy, due to EPI, has been computed.
-  
-  The study relies on Allen"s general formalism, which goes beyond the 
-  quasi-harmonic approximation (QHA), to include the free energy contributions 
-  due to quasiparticle interactions. The authors show that, for semiconductors 
-  and insulators, the EPI contributions to the free energies of electrons and 
-  phonons are the corresponding zero-point energy contributions. Using an 
-  approximate version of Allens formalism in combination with the Allen-Heine 
-  theory for EPI corrections, the authors calculate the zero-point EPI corrections 
-  to the total energy for cubic and hexagonal polytypes of carbon, silicon, 
-  and silicon carbide.
-
-  The EPI corrections were found to alter the energy differences between polytypes, 
-  with the correction term being more sensitive to crystal structure than the 
-  vdW and ZPVE terms in SiC polytypes. This highlights the importance of 
-  including the EPI correction term in DFT total energy calculations, a
-  s it can significantly affect the determination of stable and metastable 
-  polymorphs. The study enables the inclusion of EPI corrections as a separate 
-  term in the free energy expression, providing a way to go beyond the QHA by
-  including the contribution of EPI on all thermodynamic properties.'} 
+#projects:
 
 blog:
 
