@@ -16,17 +16,21 @@ My PhD thesis focuses on the study of the effect of dislocations
 on phase transformation phenomena using phase field simulations. 
 Essentially, we study the effect of elastic interaction 
 between dislocations and the solutes in a two-phase system leading 
-to interesting kinds of phase separation. Apart from this, I also 
-have experience working with first principle simulations from 
-two different projects: (i) study of the effect of electron-phonon 
-interactions in the total energy of semiconductors and (ii) 
-study of Al addition on the lowering of stacking fault energy of 
-Cu-Al system. 
+to interesting phase transformation phenomena. We have also used 
+the phase field dislocation dynamics (PFDD) code developed to look at 
+the equilibrium stacking fault widths in different face-centered 
+cubic alloy systems, where alloying results in the variation of 
+stacking fault energy. Inputs from first-principle simulations 
+are used to create a generalised stacking fault energy landscape 
+which results in dislocation dissociation and creation of a 
+stacking fault in the PFDD model. In addition, I was also 
+involved in an ab-initio study of the effect of electron-phonon 
+interactions on the total energy and hence, the stability of different 
+semiconductor polymorphs.
 
-I have also spent six months at [GPM2-SIMaP](https://simap.
-grenoble-inp.fr/en/research/simap-directory-gpm2-group), 
-Universite Grenoble Alpes as a visiting doctoral fellow 
-in [Prof. Marc Fivel's](https://simap.grenoble-inp.fr
+As part of a visiting fellowship, I have spent six months 
+at [GPM2-SIMaP](https://simap.grenoble-inp.fr/en/research/simap-directory-gpm2-group), 
+Universite Grenoble Alpes with [Prof. Marc Fivel's](https://simap.grenoble-inp.fr
 /en/research/m-fivel-marc) research group. During this 
 fellowship, I worked on an in-house discrete dislocation 
 dynamics simulation package called [NUMODIS](https://www.researchgate.net/
