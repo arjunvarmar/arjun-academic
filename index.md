@@ -36,9 +36,6 @@ fellowship, I worked on an in-house discrete dislocation
 dynamics simulation package called [NUMODIS](https://www.researchgate.net/
 project/3D-Discrete-Dislocation-Dynamics-Simulations), 
 trying to develop an algorithm to model slip transfer.
-We are also currently working on a method to integrate 
-stress calculations using Fast Fourier transforms into 
-discrete dislocation dynamics simulations.
 
 Here, you will find details about my projects, 
 links to publications, blog entries and a brief CV.
