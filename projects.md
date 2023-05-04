@@ -18,8 +18,8 @@ title: "Projects"
 Using a phase field dislocation dynamics model, we look at the evolution of phases around edge dislocations in an 
 elastically homogeneous and isotropic system with a miscibility gap. The presence of straight dislocation 
 in such a system with a homogeneous initial composition (outside the spinodal limit) would results in a segregation
-driven precipitation at the dislocation. The precipitate would look like a cylinder with a cardioid cross-section 
-for a straight dislocation.  
+driven precipitation at the dislocation. For a striaght dislocation, the precipitate would look like a cylinder 
+with a 'cardioid' cross-section.  
 
 <p align="center">
   <img src="assets/img/dislocation-phase-separation/segregation.png">
@@ -43,7 +43,14 @@ with an initial composition outside the spinodal limits.
 Essentially, the competition between the growth of the spinodal instability along the dislocation and the segregation 
 from the bulk decides the phase transformation mechanism. In the first case, without pipe diffusion, the segregation 
 dominates and spinodal fluctuations are killed. However, with pipe diffusivity, the spinodal fluctuations grow at competing 
-rates and dominate the phase separation.
+rates and dominate the phase separation. This is analogous to the classic analysis by 
+[Nichols and Mullins](https://pubs.aip.org/iaip/jap/article/36/6/1826/166438/Morphological-Changes-of-a-Surface-of-Revolution) 
+which considers the competition between surface and volume diffusion in determining the shape evolution of cylindrical rods.
+
+<p align="center">
+  <img src="assets/img/dislocation-phase-separation/nichols-analysis.png">
+ <em> Competition between growing spinodal instability and the solute segregation due to elastic interaction </em>
+</p>
 
 We have also mapped out the parameter space at which spinodal may be expected in systems with miscibility gap. Further, 
 prediction of compositions at which localised spinodal might occur has been made for real-world alloys. 
