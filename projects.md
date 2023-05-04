@@ -37,7 +37,7 @@ with an initial composition outside the spinodal limits.
 
 <p align="center">
   <img src="assets/img/dislocation-phase-separation/dislocation-spinodal.gif">
- <em> Growth of localised spinodal along the dislocation due to faster pipe diffusivity </em>
+  <em> Growth of localised spinodal along the dislocation due to faster pipe diffusivity </em>
 </p>
 
 Essentially, the competition between the growth of the spinodal instability along the dislocation and the segregation 
@@ -48,8 +48,8 @@ rates and dominate the phase separation. This is analogous to the classic analys
 which considers the competition between surface and volume diffusion in determining the shape evolution of cylindrical rods.
 
 <p align="center">
-  <img src="assets/img/dislocation-phase-separation/nichols-analysis.png">
- <em> Competition between growing spinodal instability and the solute segregation due to elastic interaction </em>
+  <img width="70%" height="70%" src="assets/img/dislocation-phase-separation/nichols-analysis.png">
+  <em> Competition between growing spinodal instability and the solute segregation due to elastic interaction </em>
 </p>
 
 We have also mapped out the parameter space at which spinodal may be expected in systems with miscibility gap. Further, 
