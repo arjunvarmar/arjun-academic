@@ -19,13 +19,12 @@ title: "Projects"
 Using a phase field dislocation dynamics model, we look at the evolution of phases around edge dislocations in an 
 elastically homogeneous and isotropic system with a miscibility gap. The presence of straight dislocation 
 in such a system with a homogeneous initial composition (outside the spinodal limit) would results in a segregation
-driven precipitation at the dislocation. 
-
-The precipitate would look like a cylinder with a cardioid cross-section for a straight dislocation.  
+driven precipitation at the dislocation. The precipitate would look like a cylinder with a cardioid cross-section 
+for a straight dislocation.  
 
 <p align="center">
   <img src="assets/img/dislocation-phase-separation/segregation.png">
- <em> Solute segregation leads to cylinders of cardioid section formed along dislocations </em>
+ <em> Solute segregation leads to a cylinder of cardioid section formed along dislocations </em>
 </p>
 
 However, we are missing an important piece of physics here, namely, the faster diffusivity of solutes along a dislocation, 
