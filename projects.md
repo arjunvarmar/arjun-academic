@@ -49,6 +49,7 @@ which considers the competition between surface and volume diffusion in determin
 
 <p align="center">
   <img width="70%" height="70%" src="assets/img/dislocation-phase-separation/nichols-analysis.png">
+  </br>
   <em> Competition between growing spinodal instability and the solute segregation due to elastic interaction </em>
 </p>
 
