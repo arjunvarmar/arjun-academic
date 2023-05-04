@@ -59,6 +59,11 @@ Please check out our publication in Acta Materialia, provided in the [Publicatio
 
 #### **Surface diffusion enhanced disintegration of nanowires**
 
+Metallic nanowires are useful in a wide range of applications, such as, but not limited to, solar cells, flexible and stretchable 
+electronic circuits. Hence, their stability is an important consideration, especially at high temperatures. In this study, we considered intersecting nanowires using a simple Cahn-Hilliard model, in which diffusion is assumed to predominantly 
+occur at the surface of the material. Due to surface diffusion, the nanowire junction undergoes a curvature driven material flow, 
+snapping the wires at the junctions. After the nanowires break-up at the junction, the remaining parts of the wires also undergo 
+disintegration due to Rayleigh instability. 
 
 #### **Effect of generalised stacking fault energy surface on equilibrium stacking fault width in alloys**
 
