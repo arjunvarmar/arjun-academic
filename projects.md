@@ -31,13 +31,24 @@ known in literature as ["pipe diffusion"](https://www.sciencedirect.com/science/
 we incorporated the faster pipe diffusivity in our model using a formulation 
 by [Zhu et al.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.60.3564). 
 
-
-And voila! 
-Instead of a straight cylindrical precipitate, we see blobs of particles formed by the growth of a composition 
-instability along the straight dislocation. In other words, a localised spinodal at the dislocation line, in a system 
+And voila, instead of a long precipitate along the dislocation, we see blobs formed along the dislocation line, 
+due to the growth of a composition instability. In other words, a localised spinodal at the dislocation line, in a system 
 with an initial composition outside the spinodal limits.  
 
+<p align="center">
+  <img src="assets/img/dislocation-phase-separation/dislocation-spinodal.gif">
+ <em> Growth of localised spinodal along the dislocation due to faster pipe diffusivity </em>
+</p>
 
+Essentially, the competition between the growth of the spinodal instability along the dislocation and the segregation 
+from the bulk decides the phase transformation mechanism. In the first case, without pipe diffusion, the segregation 
+dominates and spinodal fluctuations are killed. However, with pipe diffusivity, the spinodal fluctuations grow at competing 
+rates and dominate the phase separation.
+
+We have also mapped out the parameter space at which spinodal may be expected in systems with miscibility gap. Further, 
+prediction of compositions at which localised spinodal might occur has been made for real-world alloys. 
+
+Please check out our publication in Acta Materialia is provided in the Publications page for more details!
 
 #### **Surface diffusion enhanced disintegration of nanowires**
 
