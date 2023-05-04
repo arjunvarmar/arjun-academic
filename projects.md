@@ -10,11 +10,8 @@ title: "Projects"
 - [Effect of generalised stacking fault energy surface on equilibrium stacking fault width in alloys](#effect-of-generalised-stacking-fault-energy-surface-on-equilibrium-stacking-fault-width-in-alloys)
 - [Slip transfer at a boundary in discrete dislocation dynamics](#)
 
-Last updated: May 4, 2023
+###### Last updated: May 4, 2023
 ---
-</br>
-
-
 
 #### **Dislocation assisted phase separation**
 
