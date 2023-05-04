@@ -24,7 +24,7 @@ driven precipitation at the dislocation.
 The precipitate would look like a cylinder with a cardioid cross-section for a straight dislocation.  
 
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img src="assets/img/dislocation-phase-separation/segregation.png">
 </p>
 
 However, we are missing an important piece of physics here, namely, the faster diffusivity of solutes along a dislocation, 
@@ -32,7 +32,10 @@ known in literature as ["pipe diffusion"](https://www.sciencedirect.com/science/
 we incorporated the faster pipe diffusivity in our model using a formulation 
 by [Zhu et al.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.60.3564). And voila! 
 Instead of a straight cylindrical precipitate, we see blobs of particles formed by the growth of a composition 
-instability along the straight dislocation. In other words, a localised spinodal at the dislocation line! 
+instability along the straight dislocation. In other words, a localised spinodal at the dislocation line, in a system 
+with an initial composition outside the spinodal limits.  
+
+
 
 #### **Surface diffusion enhanced disintegration of nanowires**
 
