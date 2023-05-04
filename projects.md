@@ -21,7 +21,7 @@ in such a system with a homogeneous initial composition (outside the spinodal li
 driven precipitation at the dislocation. For a striaght dislocation, the precipitate would look like a cylinder 
 with a 'cardioid' cross-section.  
 
-<figure>
+<figure align="center">
   <img width="80%" height="80%" src="assets/img/dislocation-phase-separation/segregation.png">
  <figcaption> Solute segregation leads to a cylinder of cardioid section formed along dislocations </figcaption>
 </figure>
@@ -35,7 +35,7 @@ And voila, instead of a long precipitate along the dislocation, we see blobs for
 due to the growth of a composition instability. In other words, a localised spinodal at the dislocation line, in a system 
 with an initial composition outside the spinodal limits.  
 
-<figure>
+<figure align="center">
   <img src="assets/img/dislocation-phase-separation/dislocation-spinodal.gif">
   <figcaption> Growth of localised spinodal along the dislocation due to faster pipe diffusivity </figcaption>
 </figure>
@@ -47,7 +47,7 @@ rates and dominate the phase separation. This is analogous to the classic analys
 [Nichols and Mullins](https://pubs.aip.org/iaip/jap/article/36/6/1826/166438/Morphological-Changes-of-a-Surface-of-Revolution) 
 which considers the competition between surface and volume diffusion in determining the shape evolution of cylindrical rods.
 
-<figure>
+<figure align="center">
   <img width="70%" height="70%" src="assets/img/dislocation-phase-separation/nichols-analysis.png">
   </br>
   <figcaption> Competition between growing spinodal instability and the solute segregation due to elastic interaction </figcaption>
