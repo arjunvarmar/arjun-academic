@@ -66,7 +66,7 @@ snapping the wires at the junctions. After the nanowires break-up at the junctio
 disintegration due to Rayleigh instability. 
 
 <figure align="center">
-  <img width="100%" height="100%" src="assets/img/nanowires/nanowire-disintegration.gif">
+  <img width="80%" height="80%" src="assets/img/nanowires/nanowire-disintegration.gif">
   <figcaption> The intersecting nanowires break-up at the junction, following which they completely disintegrate due to 
   Rayleigh instability </figcaption>
 </figure>
