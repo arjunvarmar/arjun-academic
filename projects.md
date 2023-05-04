@@ -14,7 +14,7 @@ title: "Projects"
 ---
 
 #### **Dislocation assisted phase separation**
-
+<p align=">
 Using a phase field dislocation dynamics model, we look at the evolution of phases around edge dislocations in an 
 elastically homogeneous and isotropic system with a miscibility gap. The presence of straight dislocation 
 in such a system with a homogeneous initial composition (outside the spinodal limit) would results in a segregation
@@ -22,7 +22,7 @@ driven precipitation at the dislocation. For a striaght dislocation, the precipi
 with a 'cardioid' cross-section.  
 
 <p align="center">
-  <img src="assets/img/dislocation-phase-separation/segregation.png">
+  <img width="80%" height="80%" src="assets/img/dislocation-phase-separation/segregation.png">
  <em> Solute segregation leads to a cylinder of cardioid section formed along dislocations </em>
 </p>
 
