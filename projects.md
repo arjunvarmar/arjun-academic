@@ -65,6 +65,14 @@ occur at the surface of the material. Due to surface diffusion, the nanowire jun
 snapping the wires at the junctions. After the nanowires break-up at the junction, the remaining parts of the wires also undergo 
 disintegration due to Rayleigh instability. 
 
+<figure align="center">
+  <img width="70%" height="70%" src="assets/img/nanowires/nanowire-disintegration.gif">
+  <figcaption> The intersecting nanowires break-up at the junction, following which they completely disintegrate by 
+  Rayleigh instability </figcaption>
+</figure>
+
+
+
 #### **Effect of generalised stacking fault energy surface on equilibrium stacking fault width in alloys**
 
 #### **Slip transfer at boundaries using discrete dislocation dynamics simulations**
