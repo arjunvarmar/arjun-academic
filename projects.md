@@ -36,7 +36,7 @@ due to the growth of a composition instability. In other words, a localised spin
 with an initial composition outside the spinodal limits.  
 
 <figure align="center">
-  <img src="assets/img/dislocation-phase-separation/dislocation-spinodal.gif">
+  <img width="80%" height="80%" src="assets/img/dislocation-phase-separation/dislocation-spinodal.gif">
   <figcaption> Growth of localised spinodal along the dislocation due to faster pipe diffusivity </figcaption>
 </figure>
 
@@ -49,7 +49,6 @@ which considers the competition between surface and volume diffusion in determin
 
 <figure align="center">
   <img width="70%" height="70%" src="assets/img/dislocation-phase-separation/nichols-analysis.png">
-  </br>
   <figcaption> Competition between growing spinodal instability and the solute segregation due to elastic interaction </figcaption>
 </figure>
 
