@@ -13,7 +13,7 @@ driven precipitation at the dislocation.
 
 The precipitate would look like a cylinder with a cardioid cross-section for a straight dislocation.  
 
-![Segregation assisted precipitation](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Segregation assisted precipitation ><](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 However, we are missing an important piece of physics here, namely, the faster diffusivity of solutes along a dislocation, 
 known in literature as ["pipe diffusion"](https://www.sciencedirect.com/science/article/abs/pii/0001616064902202). By assuming the atomic mobility as a function of the dislocation field, 
