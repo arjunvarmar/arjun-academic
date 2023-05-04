@@ -3,7 +3,7 @@ layout: projects
 title: "Projects"
 ---
 
-### **My projects**
+### **Our projects**
 
 - [Dislocation assisted phase separation](#dislocation-assisted-phase-separation)
 - [Surface diffusion enhanced disintegration of nanowires](#surface-diffusion-enhanced-disintegration-of-nanowires)
