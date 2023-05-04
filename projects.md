@@ -2,6 +2,15 @@
 layout: projects
 title: "Projects"
 ---
+
+### Here is a list of projects that I have been working on for the past few years.
+
+- Dislocation assisted phase separation
+- Surface diffusion enhanced disintegration of nanowires
+- Effect of generalised stacking fault energy surface on equilibrium stacking fault width in alloys
+- Slip transfer at a boundary in discrete dislocation dynamics
+
+
 #### **Dislocation assisted phase separation**
 
 Using a phase field dislocation dynamics model, we look at the evolution of phases around edge dislocations in an 
