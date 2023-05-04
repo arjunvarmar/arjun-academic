@@ -22,7 +22,7 @@ by [Zhu et al.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.60.3564).
 Instead of a straight cylindrical precipitate, we see blobs of particles formed by the growth of a composition 
 instability along the straight dislocation. In other words, a localised spinodal at the dislocation line! 
 
-
+{: .text-justify}
 
 #### **Surface diffusion enhanced disintegration of nanowires**
 
