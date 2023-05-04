@@ -55,7 +55,7 @@ which considers the competition between surface and volume diffusion in determin
 We have also mapped out the parameter space at which spinodal may be expected in systems with miscibility gap. Further, 
 prediction of compositions at which localised spinodal might occur has been made for real-world alloys. 
 
-Please check out our publication in Acta Materialia is provided in the Publications page for more details!
+Please check out our publication in Acta Materialia, provided in the [Publications](https://arjunvarmar.github.io/academic/publications) page for more details!
 
 #### **Surface diffusion enhanced disintegration of nanowires**
 
