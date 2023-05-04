@@ -2,7 +2,6 @@
 layout: projects
 title: "Projects"
 ---
-<div style='text-align: justify;'>
 #### **Dislocation assisted phase separation**
 
 Using a phase field dislocation dynamics model, we look at the evolution of phases around edge dislocations in an 
@@ -19,11 +18,13 @@ The precipitate would look like a cylinder with a cardioid cross-section for a s
 However, we are missing an important piece of physics here, namely, the faster diffusivity of solutes along a dislocation, 
 known in literature as ["pipe diffusion"](https://www.sciencedirect.com/science/article/abs/pii/0001616064902202). By assuming the atomic mobility as a function of the dislocation field, 
 we incorporated the faster pipe diffusivity in our model using a formulation 
-by [Zhu et al.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.60.3564). And voila,  
+by [Zhu et al.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.60.3564). And voila! 
+Instead of a straight cylindrical precipitate, we see blobs of particles formed by the growth of a composition 
+instability along the straight dislocation. In other words, a localised spinodal at the dislocation line! 
+
 
 
 #### **Surface diffusion enhanced disintegration of nanowires**
 
 
 #### **Effect of generalised stacking fault energy surface on equilibrium stacking fault width in alloys**
-</div>
