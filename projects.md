@@ -61,18 +61,23 @@ Please check out our publication in Acta Materialia, provided in the [Publicatio
 
 Metallic nanowires are useful in a wide range of applications, such as, but not limited to, solar cells, flexible and stretchable 
 electronic circuits. Hence, their stability is an important consideration, especially at high temperatures. In this study, we considered intersecting nanowires using a simple Cahn-Hilliard model, in which diffusion is assumed to predominantly 
-occur at the surface of the material. Due to surface diffusion, the nanowire junction undergoes a curvature driven material flow, 
+occur at the surface of the wires. Due to surface diffusion, the nanowire junction undergoes a curvature driven material flow, 
 snapping the wires at the junctions. After the nanowires break-up at the junction, the remaining parts of the wires also undergo 
 disintegration due to Rayleigh instability. 
 
 <figure align="center">
-  <img width="80%" height="80%" src="assets/img/nanowires/nanowire-disintegration.gif">
+  <img width="70%" height="70%" src="assets/img/nanowires/nanowire-disintegration.gif">
   <figcaption> The intersecting nanowires break-up at the junction, following which they completely disintegrate due to 
   Rayleigh instability </figcaption>
 </figure>
 
-
+Further, the effect of diameters of the wires, angle of intersection and number of intersectiosn were also studied with 
+more simulations. The radius of the smaller nanowire plays a dominant role in the kinetics.   
 
 #### **Effect of generalised stacking fault energy surface on equilibrium stacking fault width in alloys**
 
+The generalised stacking fault energy surface 
+
 #### **Slip transfer at boundaries using discrete dislocation dynamics simulations**
+
+Dislocation dynamics simulations are 
