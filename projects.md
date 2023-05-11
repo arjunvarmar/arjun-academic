@@ -71,8 +71,12 @@ disintegration due to Rayleigh instability.
   Rayleigh instability </figcaption>
 </figure>
 
-Further, the effect of diameters of the wires, angle of intersection and number of intersectiosn were also studied with 
-more simulations. The radius of the smaller nanowire plays a dominant role in the kinetics.   
+The shape of the nanodot formed at the point of intersection depends upon the angle of intersection of the nanowires. The nanodots are also symmetrically aligned along the direction which bisects this angle. 
+
+<figure align="center">
+  <img width="70%" height="70%" src="assets/img/nanowires/central-nanodot.png">
+  <figcaption> The shape of the nanodot formed at the intersection due to the break-up of the two nanowires </figcaption>
+</figure>
 
 #### **Effect of generalised stacking fault energy surface on equilibrium stacking fault width in alloys**
 
