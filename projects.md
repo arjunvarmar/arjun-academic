@@ -78,6 +78,16 @@ The shape of the nanodot formed at the point of intersection depends upon the an
   <figcaption> The shape of the nanodot formed at the intersection due to the break-up of the two nanowires </figcaption>
 </figure>
 
+Further, the break-up of nanowires were rationalised in terms of their principal curvatures, using interfacial shape distribution 
+(ISD) maps. The ISD maps show the evolution of the wires, from the initial cylindrical geometry, to the formation of the spherical nanodots as the wires break. 
+
+<figure align="center">
+  <img width="70%" height="70%" src="assets/img/nanowires/isd-maps.png">
+  <figcaption> ISD maps of the nanowires oriented at 90 degrees. </figcaption>
+</figure>
+
+For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/article/130/19/194301/1061998/Phase-field-study-of-surface-diffusion-enhanced)!
+
 #### **Effect of generalised stacking fault energy surface on equilibrium stacking fault width in alloys**
 
 The generalised stacking fault energy surface 
