@@ -83,7 +83,7 @@ Further, the break-up of nanowires were rationalised in terms of their principal
 
 <figure align="center">
   <img width="100%" height="100%" src="assets/img/nanowires/isd-maps.png">
-  <figcaption> ISD maps of the nanowires oriented at 90 degrees. </figcaption>
+  <figcaption> ISD maps of the nanowires oriented at 90 degrees. From the initial cylindrical configuration of the wires (shown by the stright line along K1=0), the wires disintegrate forming spherical particles, shown by blobs along the K1=K2 line.  </figcaption>
 </figure>
 
 For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/article/130/19/194301/1061998/Phase-field-study-of-surface-diffusion-enhanced)!
