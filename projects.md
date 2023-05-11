@@ -82,7 +82,7 @@ Further, the break-up of nanowires were rationalised in terms of their principal
 (ISD) maps. The ISD maps show the evolution of the wires, from the initial cylindrical geometry, to the formation of the spherical nanodots as the wires break. 
 
 <figure align="center">
-  <img width="70%" height="70%" src="assets/img/nanowires/isd-maps.png">
+  <img width="100%" height="100%" src="assets/img/nanowires/isd-maps.png">
   <figcaption> ISD maps of the nanowires oriented at 90 degrees. </figcaption>
 </figure>
 
