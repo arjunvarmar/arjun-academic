@@ -1,4 +1,4 @@
 ---
 layout: cv
-title: "CV"
+title: "CV and Contact"
 ---
