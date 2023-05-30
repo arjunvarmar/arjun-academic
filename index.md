@@ -3,7 +3,10 @@ layout: home
 title: "Home"
 ---
 
-I work at the department of [Metallurgical Engineering and Materials Science](https://www.iitb.ac.in/mems/) 
+Hello there. Welcome to my homepage! 
+
+I am a PhD candidate, working at the department 
+of [Metallurgical Engineering and Materials Science](https://www.iitb.ac.in/mems/) 
 at IIT Bombay, with [Prof. M P Gururajan](https://sites.google.com/site/gurusofficialhomepage/) 
 and [Prof. Prita Pant](https://www.iitb.ac.in/mems/en/prof-prita-pant). 
 
