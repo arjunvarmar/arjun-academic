@@ -90,8 +90,8 @@ For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/art
 
 #### **Effect of generalised stacking fault energy surface on equilibrium stacking fault width in alloys**
 
-The generalised stacking fault energy surface 
+Will be updated soon 
 
 #### **Slip transfer at boundaries using discrete dislocation dynamics simulations**
 
-Dislocation dynamics simulations are 
+Will be updated soon
