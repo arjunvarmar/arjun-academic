@@ -57,6 +57,7 @@ layout: default
          <h5> Contact </h5>
        </div>
        <div class="col-md-10">
+        {% for section in site.data.cv.contact %}
           <p> <b>{{ section.name }}</b> </p>
           <p> <b>{{ section.title }}</b> </p>
           <p> <b>{{ section.department }}</b> </p>
@@ -64,6 +65,7 @@ layout: default
           <p> <b>{{ section.institution_address }}</b> </p>
           <p> <b>{{ section.email }}</b> </p>
           <p> <b>{{ section.office }}</b> </p>
+        {% endfor %}
        </div>
      </div>
    </div>
