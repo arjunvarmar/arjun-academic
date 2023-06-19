@@ -1,12 +1,12 @@
--title: 'Name'
-description: 'Arjun Varma R.', 
--title: 'Designation'
-description: 'PhD candidate', 
--title: 'Department'
-description: 'Metallurgical Engineering and Materials Scienve', 
--title: 'Institution'
-description: 'Indian Institute of Technology Bombay, Powai 400076, Maharashtra, India', 
--title: 'Email'
-description: 'arjun-dot-varma-dot-r-at-gmail-dot-com', 
--title: 'Lab group' 
-description: 'Computational Materials Engineering Group, Materials and Process Modelling Lab' 
+- title: ''
+  description: 'Arjun Varma R.', 
+- title: ''
+  description: 'PhD candidate', 
+- title: 'Department'
+  description: 'Metallurgical Engineering and Materials Scienve', 
+- title: 'Institution'
+  description: 'Indian Institute of Technology Bombay, Powai 400076, Maharashtra, India', 
+- title: 'Email'
+  description: 'arjun-dot-varma-dot-r-at-gmail-dot-com', 
+- title: 'Lab group' 
+  description: 'Computational Materials Engineering Group, Materials and Process Modelling Lab' 
