@@ -18,6 +18,7 @@ layout: default
         {% endfor %}
       </div>
     </div>
+
     <div class="row g-5 mb-5">
       <div class="col-md-2">
         <h5>Industrial Experience</h5>
@@ -29,6 +30,19 @@ layout: default
         {% endfor %}
       </div>
     </div>
+
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h5> Programming and softwares </h5>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.programming %}
+          <p> <b>{{ section.title }}</b>: {{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+
     <div class="row g-5 mb-5">
       <div class="col-md-2">
         <h5>Teaching 
@@ -41,6 +55,7 @@ layout: default
         {% endfor %}
       </div>
     </div>
+
     <div class="row g-5 mb-5">
       <div class="col-md-2">
         <h5>Languages </h5>
@@ -51,18 +66,8 @@ layout: default
         {% endfor %}
       </div>
     </div>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h5> Programming and Technical skills </h5>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.programming %}
-          <p> <b>{{ section.title }}</b>: {{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
 
-  <div class="row g-5 mb-5">
+    <div class="row g-5 mb-5">
        <div class="col-md-2">
          <h5> Contact </h5>
        </div>
@@ -74,4 +79,9 @@ layout: default
      </div>
    </div>
   </div>
+  <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h1>For the pdf version of this resume, please drop an email at my above email address!</h1>
+   </div>
+
 </div>
