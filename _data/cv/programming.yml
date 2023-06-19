@@ -1,5 +1,5 @@
 - title : 'Programming languages'
-  description: 'C, C++, GNU Octave / MATLAB, Python' 
+  description: 'C, C++, GNU Octave / MATLAB, Python, R, Julia (ordered in terms of decreasing expertise)' 
 
 - title : 'Parallel programming'
   descrition: 'CUDA (intermediate), MPI (beginner level)'
@@ -7,5 +7,5 @@
 - title : 'Visualization'
   description: 'Paraview, Matplotlib, Gnuplot, VisIt'
 
-- title : 'Specialized software'
-  description: 'ThermoCalc, SolidWorks, Mathematica'
+- title : 'Tools and Specialized software'
+  description: 'Git, Latex, ThermoCalc, Mathematica, Jekyll'
