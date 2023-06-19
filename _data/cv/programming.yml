@@ -1,0 +1,11 @@
+- title : 'Programming languages'
+  description: 'C, C++, GNU Octave / MATLAB, Python' 
+
+- title : 'Parallel programming'
+  descrition: 'CUDA (intermediate), MPI (beginner level)'
+
+- title : 'Visualization'
+  description: 'Paraview, Matplotlib, Gnuplot, VisIt'
+
+- title : 'Specialized software'
+  description: 'ThermoCalc, SolidWorks, Mathematica'

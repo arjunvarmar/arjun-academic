@@ -2,8 +2,8 @@ menu:
 - {name: 'Projects', url: '/projects'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'Blog', url: '/blog'}
-- {name: 'CV and Contact', url: '/cv'}
-- {name: 'Gallery', url: '/contact'}
+- {name: 'CV and Contact', url: '/cv_contact'}
+- {name: 'Gallery', url: '/gallery'}
 
 #projects:
 
@@ -15,7 +15,7 @@ social:
   #- {icon: 'instagram', link: 'https://www.instagram.com/arjun_varma_r/'}
 - {icon: 'linkedin', link: 'https://in.linkedin.com/in/arjun-varma-r-a5037888?trk=people-guest_people_search-card'}
 
-contacts:
+#contacts:
 - #-{name: 'Arjun Varma R.', 
   # title: 'PhD candidate', 
   # department: 'Metallurgical Engineering and Materials Scienve', 
@@ -23,4 +23,4 @@ contacts:
   # institution_address: 'Powai 400076, Maharashtra, India', 
   # email: 'arjun-dot-varma-dot-r-at-gmail-dot-com', 
   # office: 'Materials and Process Modelling Lab', 
-   {image: 'assets/img/contact.jpg'}
+ #  {image: 'assets/img/contact.jpg'}

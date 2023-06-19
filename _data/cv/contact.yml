@@ -1,8 +1,8 @@
-- title: ''
-  description: 'Arjun Varma R.'
-
-- title: ''
+- title: 'Designation'
   description: 'PhD candidate' 
+
+- title: 'Research group' 
+  description: 'Computational Materials Engineering Group, Materials and Process Modelling Lab' 
 
 - title: 'Department'
   description: 'Metallurgical Engineering and Materials Science' 
@@ -12,6 +12,3 @@
 
 - title: 'Email'
   description: 'arjun-dot-varma-dot-r-at-gmail-dot-com' 
-
-- title: 'Lab group' 
-  description: 'Computational Materials Engineering Group, Materials and Process Modelling Lab' 
