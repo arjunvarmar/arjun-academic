@@ -1,4 +1,4 @@
 ---
-layout: contact
+layout: gallery
 title: "Gallery"
 ---
