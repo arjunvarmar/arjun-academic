@@ -12,7 +12,7 @@ title: "Gallery"
 
 <figure align="center">
   <img width="60%" height="60%" src="assets/img/gallery/gulmohar_bloom.jpg">
-  <figcaption> When the gulmohars bloom, it is a riot of colour in IIT Bombay! </figcaption>
+  <figcaption> When the gulmohars bloom, it is a riot of colour at IIT Bombay! </figcaption>
 </figure>
 
 <figure align="center">
