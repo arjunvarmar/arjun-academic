@@ -2,6 +2,9 @@ featured:
 - {name: 'Dislocation assisted phase separation: a phase-field study', journal: 'Acta Materialia', authors: 'Arjun Varma R, Prita Pant and M P Gururajan',url: 'https://doi.org/10.1016/j.actamat.2022.118529',year: '2023'}
 
 index:
+- {name: 'Dislocation assisted coarsening of coherent precipitates: a phase-field study', journal: 'ArXiV', authors: 'Arjun Varma R, Prita Pant and M P Gururajan',url: 'https://arxiv.org/abs/2401.04382',year: '2023'}
+
+index:
 - {name: 'Dislocation assisted phase separation: a phase-field study', journal: 'Acta Materialia', authors: 'Arjun Varma R, Prita Pant and M P Gururajan',url: 'https://doi.org/10.1016/j.actamat.2022.118529',year: '2023'}
 
 - {name: 'Electron–Phonon Interaction Contribution to the Total Energy of Group IV Semiconductor Polymorphs: Evaluation and Implications', journal: 'ACS Omega', authors: 'Arjun Varma Ramasimha Varma, Shilpa Paul, Anup Itale, Pranav Pable, Radhika Tibrewala, Samruddhi Dodal, Harshal Yerunkar, Saurav Bhaumik, Vaishali Shah, Mogadalai Pandurangan Gururajan, Tiramkudlu RS Prasanna',url: 'https://doi.org/10.1021/acsomega.2c08244',year: '2023'}
