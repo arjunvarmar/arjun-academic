@@ -6,7 +6,7 @@ title: "Home"
 Hello, and welcome to my homepage! 
 
 I am a postdoctoral researcher, working at the [Feugmo research group](https://uwaterloo.ca/feugmo-research-group/) in the 
-department of Chemistry at the University of Waterloo. Here, we are trying to develop phase field crystal (PFC) models 
+department of Chemistry at University of Waterloo. Here, we are trying to develop phase field crystal (PFC) models 
 for multi-component systems with an aim of studying refractory high entropy alloys that might have potential nuclear applications. 
 In addition, we are also trying to come up with a phase field model for corrosion, informed by 
 atomistic simulations, for multicomponent alloys.
