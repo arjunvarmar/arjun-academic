@@ -3,14 +3,19 @@ layout: home
 title: "Home"
 ---
 
-Hello there. Welcome to my homepage! 
+Hello, and welcome to my homepage! 
 
-I am a PhD candidate, working at the department 
+I am a postdoctoral researcher, working at the [Feugmo research group](https://uwaterloo.ca/feugmo-research-group/) in the 
+department of Chemistry at the University of Waterloo. Here, we are trying to develop phase field crystal (PFC) models 
+for multi-component systems with an aim of studying refractory high entropy alloys that might have potential nuclear applications. 
+In addition, we are also trying to come up with a phase field model for corrosion, informed by 
+atomistic simulations, for multicomponent alloys.
+
+Before coming to Canada, I completed my PhD from the department 
 of [Metallurgical Engineering and Materials Science](https://www.iitb.ac.in/mems/) 
 at IIT Bombay, with [Prof. M P Gururajan](https://sites.google.com/site/gurusofficialhomepage/) 
 and [Prof. Prita Pant](https://www.iitb.ac.in/mems/en/prof-prita-pant). 
-
-My PhD thesis focuses on the study of the effect of dislocations 
+My PhD thesis focused on the study of the effect of dislocations 
 on phase transformation phenomena using phase field simulations. 
 Essentially, we study the effect of elastic interaction 
 between dislocations and the solutes in a two-phase system leading 
