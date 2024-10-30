@@ -2,3 +2,10 @@
 ---
 
 @import "main";
+
+blockquote {
+  font-style: italic;
+  border-left: 3px solid #ccc;
+  padding: 10px;
+  color: #333;
+}
