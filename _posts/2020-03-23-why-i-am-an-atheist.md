@@ -17,7 +17,13 @@ Another thing that still throbs in my mind is the way he sums up his life, in co
 
 
 
-> What hope should I entertain? I know that will be the end when the rope is tightened round my neck and the rafters move from under my feet. To use more precise religious terminology, that will be the moment of utter annihilation. My soul will come to nothing. If I take the courage to take the matter in the light of ‘Reward’, I see that a short life of struggle with no such magnificent end shall itself be my ‘Reward.’ That is all. Without any selfish motive of getting any reward here or in the hereafter, quite disinterestedly have I devoted my life to the cause of freedom. I could not act otherwise. The day shall usher in a new era of liberty when a large number of men and women, taking courage from the idea of serving humanity and liberating them from sufferings and distress, decide that there is no alternative before them except devoting their lives for this cause.
+> ``What hope should I entertain? I know that will be the end when the rope is tightened round my neck and the rafters move from under my feet. 
+  To use more precise religious terminology, that will be the moment of utter annihilation. My soul will come to nothing. If I take the courage 
+  to take the matter in the light of ‘Reward’, I see that a short life of struggle with no such magnificent end shall itself be my ‘Reward.’ 
+  That is all. Without any selfish motive of getting any reward here or in the hereafter, quite disinterestedly have I devoted my life to the 
+  cause of freedom. I could not act otherwise. The day shall usher in a new era of liberty when a large number of men and women, taking courage 
+  from the idea of serving humanity and liberating them from sufferings and distress, decide that there is no alternative before them except 
+  devoting their lives for this cause."
 
 
 
