@@ -5,7 +5,14 @@ title: "Gallery"
 
 ### **Gallery**
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; border: 1px solid grey; padding: 5px;">
+---
+layout: gallery
+title: "Gallery"
+---
+
+### **Gallery**
+
+<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; border: 1px solid grey; padding: 5px;">
 
 <div style="border: 1px solid grey; padding: 10px;">
   <figure>
@@ -46,27 +53,6 @@ title: "Gallery"
   <figure>
     <img style="width: 100%; height: auto; aspect-ratio: 4 / 3;" src="assets/img/gallery/grenoble-group.jpg">
     <figcaption> Trying out Baklawas and other Turkish delights with Oguz's (third from left) guidance in Grenoble. </figcaption>
-  </figure>
-</div>
-
-<div style="border: 1px solid grey; padding: 10px;">
-  <figure>
-    <img style="width: 100%; height: auto; aspect-ratio: 4 / 3;" src="assets/img/gallery/selfie-with-MonaLisa.jpg">
-    <figcaption> A selfie with Mona Lisa in Paris! </figcaption>
-  </figure>
-</div>
-
-<div style="border: 1px solid grey; padding: 10px;">
-  <figure>
-    <img style="width: 100%; height: auto; aspect-ratio: 4 / 3;" src="assets/img/gallery/selfie-with-MonaLisa.jpg">
-    <figcaption> A selfie with Mona Lisa in Paris! </figcaption>
-  </figure>
-</div>
-
-<div style="border: 1px solid grey; padding: 10px;">
-  <figure>
-    <img style="width: 100%; height: auto; aspect-ratio: 4 / 3;" src="assets/img/gallery/selfie-with-MonaLisa.jpg">
-    <figcaption> A selfie with Mona Lisa in Paris! </figcaption>
   </figure>
 </div>
 
