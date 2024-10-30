@@ -56,5 +56,33 @@ title: "Gallery"
   </figure>
 </div>
 
+<div style="border: 1px solid grey; padding: 10px;">
+  <figure>
+    <img width="100%" src="assets/img/gallery/selfie-with-MonaLisa.jpg">
+    <figcaption> A selfie with Mona Lisa in Paris! </figcaption>
+  </figure>
+</div>
+
+<div style="border: 1px solid grey; padding: 10px;">
+  <figure>
+    <img width="100%" src="assets/img/gallery/selfie-with-MonaLisa.jpg">
+    <figcaption> A selfie with Mona Lisa in Paris! </figcaption>
+  </figure>
+</div>
+
+<div style="border: 1px solid grey; padding: 10px;">
+  <figure>
+    <img width="100%" src="assets/img/gallery/selfie-with-MonaLisa.jpg">
+    <figcaption> A selfie with Mona Lisa in Paris! </figcaption>
+  </figure>
+</div>
+
+<div style="border: 1px solid grey; padding: 10px;">
+  <figure>
+    <img width="100%" src="assets/img/gallery/selfie-with-MonaLisa.jpg">
+    <figcaption> A selfie with Mona Lisa in Paris! </figcaption>
+  </figure>
+</div>
+
 </div>
 
