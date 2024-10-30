@@ -24,6 +24,4 @@ Another thing that still throbs in my mind is the way he sums up his life, in co
 >  from the idea of serving humanity and liberating them from sufferings and distress, decide that there is no alternative before them except 
 >  devoting their lives for this cause."
 
-
-
 I can't emphasize it enough that this essay is a must read for every young person in India
