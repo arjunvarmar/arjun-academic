@@ -1,5 +1,4 @@
-Post type: Book review
-Date: 30-April-2019
+Post type: Book review, Date: 30-April-2019
 
 Author: Jim Corbett
 

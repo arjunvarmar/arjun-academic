@@ -1,5 +1,4 @@
-Post type: Book review
-Date: 23-March-2020
+Post type: Book review, Date: 23-March-2020
 
 Author: Bhagat Singh
 
