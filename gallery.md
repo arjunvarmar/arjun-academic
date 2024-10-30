@@ -5,13 +5,6 @@ title: "Gallery"
 
 ### **Gallery**
 
----
-layout: gallery
-title: "Gallery"
----
-
-### **Gallery**
-
 <div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; border: 1px solid grey; padding: 5px;">
 
 <div style="border: 1px solid grey; padding: 10px;">
