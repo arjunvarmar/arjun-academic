@@ -1,4 +1,4 @@
-Post type: Book review, Date: 30-April-2019
+Post type: Book review, Date: 30-April-2019, Language: English
 
 Author: Jim Corbett
 

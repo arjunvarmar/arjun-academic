@@ -1,4 +1,4 @@
-Post type: Book review, Date: 23-May-2020
+Post type: Book review, Date: 23-May-2020, Language: Malayalam
 
 Author: Lalithambika Antharjanam
 
