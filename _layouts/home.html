@@ -1,39 +1,30 @@
 ---
 layout: default
 ---
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .image-column {
-    flex: 1;
-    min-width: 200px;
-    max-width: 300px;
-    margin: 10px;
-  }
-  .text-column {
-    flex: 2;
-    min-width: 200px;
-    margin: 10px;
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-
-<div class="row g-5 mb-5">
-  <div class="col-md-6">
-    <!--h3 class="fw-bold">Research</h3-->
-    {{ content }}
-  </div>
-  <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/arjun_at_atomium.jpg" alt="Home" width="100%">
-  </div>
+<div class="content-with-image">
+  <img src="{{ site.github.url }}/assets/img/arjun_at_atomium.jpg" alt="Home" class="wrapped-image">
+  {{ content }}
 </div>
 
-<!--
-{% include publications.html %}
--->
+<style>
+  .content-with-image {
+    overflow: hidden;
+  }
+
+  .wrapped-image {
+    float: left; /* Aligns the image to the left */
+    margin: 0 20px 20px 0; /* Adds spacing around the image */
+    width: 40%; /* Adjust as needed */
+    max-width: 300px; /* Prevents the image from getting too large */
+  }
+
+  /* Ensure responsive behavior */
+  @media (max-width: 768px) {
+    .wrapped-image {
+      float: none; /* Image goes above the text on small screens */
+      display: block;
+      margin: 0 auto 20px;
+    }
+  }
+</style>
 
