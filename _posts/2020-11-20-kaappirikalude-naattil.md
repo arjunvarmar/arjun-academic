@@ -9,3 +9,11 @@ Author: S K Pottekkattu
 
 ആകെ മുഷിപ്പിച്ച ഒരു കാര്യം ആഫ്രിക്കക്കാരെ തരം താഴ്ത്തി സംബോധന ചെയ്യുന്ന അദ്ദേഹത്തിന്റെ രീതി ആണ്. "കാപ്പിരി" ആയും "ബുദ്ധിശൂന്യൻ" ആയും "മരത്തലയൻ" ആയും മറ്റുമാണ് ആഫ്രിക്കൻ വംശജരെ അദ്ദേഹം അടയാളപ്പെടുത്തുന്നത്.
 നാട്ടുകാരായ ആഫ്രിക്കക്കാർക്കൊപ്പം ഇന്ത്യക്കാരെ കരുതരുത്, ഇന്ത്യക്കാർക്ക് വെള്ളക്കാർക്കും നാട്ടുകാർക്കും ഇടയിൽ ഉള്ള സ്ഥാനം വേണം എന്നിങ്ങനെ ഉള്ള ആവശ്യങ്ങൾ മുൻനിർത്തി ആയിരുന്നു ഗാന്ധിജി ദക്ഷിണാഫ്രിക്കയിൽ ആദ്യമായി സമരം ചെയ്തത് എന്ന് വേറെ ഒരിടത്ത് വായിച്ചതോർക്കുന്നു. ഒരു പക്ഷെ, അന്നത്തെ കാലത്തുള്ള പൊളിറ്റിക്കൽ കോമ്പസ് വച്ച് നോക്കുമ്പോൾ വളരെ സ്വാഭാവികമായ ഒന്നായിരിക്കാം ഈ ഉച്ചനീചവീക്ഷണം എങ്കിലും അത് വായിച്ചപ്പോൾ ഒരു കല്ലുകടി ആയി തോന്നി.
+
+English translation by ChatGPT
+
+"In the Land of the Kappiris" is an account of S.K. Pottekkatt's 1949 journey through Africa. It's a journey of a proud citizen from newly independent India. At that time, about 150,000 Indians lived in African colonies, including Malayalis working as clerks for the British, Gujarati Banias engaged in trade, Tamils working as laborers, and a significant number of Goans. Through newspaper reports and statistics, Pottekkatt reveals the political environment of the time and the British attitudes toward Indians.
+
+The book also depicts the distinct characteristics of African tribes, the British tactics in exploiting them, and the Indians who arrived between these two communities seeking a livelihood. While capturing the enchanting beauty of African landscapes—its forests, rivers, and waterfalls—Pottekkatt investigates its social and political contexts. The description of Victoria Falls is highly enjoyable, and the note on the Swahili language is equally informative, especially on how Swahili borrowed Arabic, English, and Hindi words due to foreign contact.
+
+One disturbing aspect is the way Pottekkatt refers to Africans, using terms like “Kappiri,” “brainless,” and “blockhead.” This attitude brings to mind what I read elsewhere about how, during Gandhi's early years in South Africa, he argued that Indians should not be equated with native Africans but should occupy a place between the British and the locals. Though such views may reflect the political compass of that time, reading it now feels quite unsettling.
