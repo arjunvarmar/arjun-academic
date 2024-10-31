@@ -3,7 +3,7 @@ layout: projects
 title: "Projects"
 ---
 
-### **My Projects** [](#my-projects)
+### **My Projects**
 
 - [Dislocation assisted phase separation and coarsening](#dislocation-assisted-phase-separation)
 - [Surface diffusion enhanced disintegration of nanowires](#surface-diffusion-enhanced-disintegration-of-nanowires)
@@ -57,7 +57,7 @@ prediction of compositions at which localised spinodal might occur has been made
 
 Please check out our publication in Acta Materialia, provided in the [Publications](https://arjunvarmar.github.io/academic/publications) page for more details!
 
-[Back to top](#my-projects)
+[Back to top](https://arjunvarmar.github.io/project)
 
 #### **Surface diffusion enhanced disintegration of nanowires**
 
@@ -90,13 +90,13 @@ Further, the break-up of nanowires were rationalised in terms of their principal
 
 For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/article/130/19/194301/1061998/Phase-field-study-of-surface-diffusion-enhanced)!
 
-[Back to top](#my-projects)
+[Back to top](https://arjunvarmar.github.io/project)
 #### **Effect of generalised stacking fault energy surface on equilibrium stacking fault width in alloys**
 
 Will be updated soon 
 
-[Back to top](#my-projects)
+[Back to top](https://arjunvarmar.github.io/project)
 #### **Slip transfer at boundaries using discrete dislocation dynamics simulations**
 
 Will be updated soon
-[Back to top](#my-projects)
+[Back to top](https://arjunvarmar.github.io/project)

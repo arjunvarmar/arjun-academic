@@ -6,7 +6,7 @@ It was purely by coincidence that I happened to read this essay yet again today,
 
 My first introduction to the revolutionary trio of Sardar Bhagat Singh, Sukhdev Thapar and Shivram Hari Rajguru was obviously from the history textbook at school. However, I made a true connect with the man and his legendary story through the Bollywood movie "The legend of Bhagat Singh" starring Ajay Devgn.
 
-Since then, I aspired to know him more through his writings and public discourses. That's how I stumbled upon his Jail diary and this essay. What shocks me to disbelief about this man are two things: (i) the clarity and composure the 23-year young lad maintains in his discourses (2) his voraciousness to read and learn.
+Since then, I aspired to know him more through his writings and public discourses. That's how I stumbled upon his Jail diary and this essay. What shocks me to disbelief about this man are two things: (1) the clarity and composure this 23-year young lad maintains in his discourses (2) his voraciousness to read and learn.
 
 In this essay, he has tried to dissect the different aspects of the question of why he is an atheist, arriving at the answer by eliminating the wrong possibilities. He argues that he was an atheist even when he was an unknown person and so, vanity could not have resulted in his atheism. In fact, he proves that any such self-obsessed person could only be a theist since he considers himself in posession of godly qualities or even as god himself!
 
