@@ -5,16 +5,16 @@ title: "Projects"
 
 ### **My Projects**
 
-- [Dislocation assisted phase separation and coarsening](#dislocation-assisted-phase-separation)
+- [Dislocation assisted phase separation and coarsening](#dislocation-assisted-phase-separation-and-coarsening)
 - [Surface diffusion enhanced disintegration of nanowires](#surface-diffusion-enhanced-disintegration-of-nanowires)
-- [Electron-phonon interaction corrections in total energy of group IV semiconductors](#surface-diffusion-enhanced-disintegration-of-nanowires)
-- [Equilibrium stacking fault widths determination using DFT-PFDD model](#effect-of-generalised-stacking-fault-energy-surface-on-equilibrium-stacking-fault-width-in-alloys)
-- [Slip transfer at a boundary in discrete dislocation dynamics](#)
+- [Electron-phonon interaction corrections in total energy of group IV semiconductors](#electron-phonon-interaction-corrections-in-total-energy-of-group-IV-semiconductors)
+- [Equilibrium stacking fault widths of alloys by DFT-PFDD](#equilibrium-stacking-fault-widths-of-alloys-by-DFT-PFDD)
+- [Slip transfer at a boundary in discrete dislocation dynamics](#slip-transfer-at-a-boundary-in-discrete-dislocation-dynamics)
 
 ###### Last updated: October 30, 2024
 ---
 
-#### **Dislocation assisted phase separation**
+#### **Dislocation assisted phase separation and coarsening**
 
 Using a phase field dislocation dynamics model, we look at the evolution of phases around edge dislocations in an 
 elastically homogeneous and isotropic system with a miscibility gap. The presence of straight dislocation 
@@ -28,7 +28,8 @@ with a 'cardioid' cross-section.
 </figure>
 
 However, we are missing an important piece of physics here, namely, the faster diffusivity of solutes along a dislocation, 
-known in literature as ["pipe diffusion"](https://www.sciencedirect.com/science/article/abs/pii/0001616064902202). By assuming the atomic mobility as a function of the dislocation field, 
+known in literature as ["pipe diffusion"](https://www.sciencedirect.com/science/article/abs/pii/0001616064902202). 
+By assuming the atomic mobility as a function of the dislocation field, 
 we incorporated the faster pipe diffusivity in our model using a formulation 
 by [Zhu et al.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.60.3564). 
 

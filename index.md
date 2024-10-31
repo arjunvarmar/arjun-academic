@@ -5,10 +5,9 @@ title: "Home"
 
 Hello, and welcome to my homepage! 
 
-I am a postdoctoral researcher in computational materials science, 
-working with [Prof. Conrard Feugmo](https://uwaterloo.ca/chemistry/profile/cgtetsas) 
+I am a computational materials scientist, currently working with [Prof. Conrard Feugmo](https://uwaterloo.ca/chemistry/profile/cgtetsas) 
 at the [Feugmo research group](https://uwaterloo.ca/feugmo-research-group/) in the 
-department of Chemistry at University of Waterloo. Here, we are trying 
+department of Chemistry at University of Waterloo as a postdoc. Here, we are trying 
 to develop phase field crystal (PFC) models for multi-component systems with an aim 
 of studying refractory high entropy alloys that could be candidate materials for 
 gen IV nuclear reactors. In addition, we are also trying to come up with a 
@@ -31,8 +30,8 @@ cubic alloy systems. The generalised stacking fault energy is incorporated from
 atomistic or density functional theory calculations performed by our collaborators 
 at [Prof. Vaishali Shah](https://www.researchgate.net/profile/Vaishali-Shah-3)'s group in University of Pune. 
 In addition, during the early years of my PhD, I was also part of an ab-initio study of the effect of 
-electron-phonon interactions on the total energy and hence, the stability of different 
-semiconductor polymorphs.
+electron-phonon interactions on the total energy and hence, the stability of group-IV 
+semiconductor polymorphs, such as Si and C.
 
 As part of an Overseas visiting doctoral fellowship (SERB-OVDF 2019), I have also spent 
 six months at [GPM2-SIMaP](https://simap.grenoble-inp.fr/en/research/simap-directory-gpm2-group), 
