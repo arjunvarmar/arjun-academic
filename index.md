@@ -13,7 +13,7 @@ atomistic simulations, for multicomponent alloys.
 
 Before coming to Canada, I completed my PhD from the department 
 of [Metallurgical Engineering and Materials Science](https://www.iitb.ac.in/mems/) 
-at IIT Bombay, with [Prof. M P Gururajan](https://sites.google.com/site/gurusofficialhomepage/) 
+at Indian Institute of Technology Bombay, with [Prof. M P Gururajan](https://sites.google.com/site/gurusofficialhomepage/) 
 and [Prof. Prita Pant](https://www.iitb.ac.in/mems/en/prof-prita-pant). 
 My PhD thesis focused on the study of the effect of dislocations 
 on phase transformation phenomena using phase field simulations. 
