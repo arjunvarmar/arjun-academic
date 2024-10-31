@@ -9,7 +9,15 @@ layout: default
   {% for post in site.posts %}
     <li>
 	    <h3><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h3>
+      <div class="justified text">
       {{ post.excerpt }}
+      </div>
     </li>
   {% endfor %}
 </ul>
+
+<style>
+.justified-text {
+  text-align: justify;
+}
+</style>
