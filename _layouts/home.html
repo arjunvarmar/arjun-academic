@@ -3,6 +3,7 @@ layout: default
 ---
 <div class="content-with-image">
   <img src="{{ site.github.url }}/assets/img/arjun_at_atomium.jpg" alt="Home" class="wrapped-image">
+  <div class="justified-text">
   {{ content }}
 </div>
 
@@ -16,6 +17,10 @@ layout: default
     margin: 0 20px 20px 0; /* Adds spacing around the image */
     width: 60%; /* Adjust as needed */
     max-width: 300px; /* Prevents the image from getting too large */
+  }
+
+  .justified-text {
+    text-align: justify; /* Justifies the text */
   }
 
   /* Ensure responsive behavior */
