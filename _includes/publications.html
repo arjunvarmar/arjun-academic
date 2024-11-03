@@ -6,11 +6,11 @@
       <p><a href="{{ item.url }}">{{ item.name }}</a>, {{ item.authors}}, {{ item.year }} </p>
       {% endfor %}
     {% else %}
-    <p><b>Journal articles</b><p>
+    <p><b>Journal</b><p>
       {% for item in site.data.publications.index %}
       <p>{{ item.year}} - {{ item.authors}}, {{ item.journal }}, <a  href="{{ item.url }}">{{ item.name }}</a>. </p>
       {% endfor %}
-      <p><b>Conference papers</b><p>
+      <p><b>Conference</b><p>
       {% for item in site.data.publications.index2 %}
       <p>{{ item.year}} - {{ item.authors}}, {{ item.journal }}, <a  href="{{ item.url }}">{{ item.name }}</a>. </p>
       {% endfor %}
