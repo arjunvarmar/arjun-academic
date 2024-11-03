@@ -35,8 +35,7 @@ semiconductor polymorphs, such as Si and C.
 
 As part of an Overseas visiting doctoral fellowship (SERB-OVDF 2019), I have also spent 
 six months at [GPM2-SIMaP](https://simap.grenoble-inp.fr/en/research/simap-directory-gpm2-group), 
-Universite Grenoble Alpes with [Prof. Marc Fivel's](https://simap.grenoble-inp.fr
-/en/research/m-fivel-marc) research group. During this fellowship, I worked on an in-house 
+Universite Grenoble Alpes with [Prof. Marc Fivel's](https://simap.grenoble-inp.fr/fr/equipes/m-fivel-marc-1) research group. During this fellowship, I worked on an in-house 
 discrete dislocation dynamics simulation package called 
 [NUMODIS](https://www.researchgate.net/project/3D-Discrete-Dislocation-Dynamics-Simulations), 
 trying to develop an algorithm to model slip transfer. This was followed by another effort in 

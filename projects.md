@@ -7,7 +7,7 @@ title: "Projects"
 
 - [Dislocation assisted phase separation and coarsening](#dislocation-assisted-phase-separation-and-coarsening)
 - [Surface diffusion enhanced disintegration of nanowires](#surface-diffusion-enhanced-disintegration-of-nanowires)
-- [Equilibrium stacking fault width of alloys calculated by incorporating GSFE surfaces to PFDD models](#equilibrium-stacking-fault-widths-of-alloys-calculated-by-incorporating-GSFE-surfaces-to-PFDD-models)
+- [Equilibrium stacking fault width of alloys calculated by incorporating GSFE surfaces to PFDD models](#equilibrium-stacking-fault-widths-of-alloys-calculated-by-incorporating-gsfe-surfaces-to-pfdd-models)
 - [Electron-phonon interaction corrections in total energy of group IV semiconductors](#electron-phonon-interaction-corrections-in-total-energy-of-group-iv-semiconductors)
 - [Slip transfer at a boundary in discrete dislocation dynamics](#slip-transfer-at-a-boundary-in-discrete-dislocation-dynamics)
 
@@ -95,7 +95,9 @@ For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/art
 [Back to top](https://arjunvarmar.github.io/projects)
 #### **Equilibrium stacking fault width of alloys calculated by incorporating GSFE surfaces to PFDD models**
 
-Will be updated soon 
+One of the most important attractions of modelling dislocations with phase field dislocation dynamics (PFDD) models is the ease of incorporating partial dislocations. 
+The dissociation of perfect dislocations into partials is prominent in systems with low stacking fault energies. : 
+
 
 [Back to top](https://arjunvarmar.github.io/projects)
 
