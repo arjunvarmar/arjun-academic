@@ -74,6 +74,22 @@ The radii of the two precipitates connected by the dislocationsa are kept at alm
 expense of the smaller precipitate. The far-field composition in the matrix phase is taken to be equal to the equilibrium concentration (calculated by 
 modfied Gibbs-Thomson equation) for the smaller precipitate. 
 
+We then systematically study the coarsening of precipitates as a function of different parameters such as the misfit strain, elastic moduli mismatch, 
+faster pipe diffusivity and character of the connecting dislocation. The morphology of the precipitates are altered by elastic interaction 
+for the edge connecting dislocation case, leading to slower coarsening kinetics in the edge dislocation case.
+
+<figure align="center">
+  <img width="50%" height="50%" src="assets/img/dislocation-coarsening/P1_edge_mixed_screw.png">
+  <figcaption> Different coarsening kinetics for edge, screw and mixed connecting dislocations. The morphology of the shrinking precipiate is also shown. </figcaption>
+</figure>
+
+In the elastically homogeneous case, we found that only the edge dislocations elastically interacted with the precipitate, whose misfit was considered to be 
+purely dilatational. However, in the elastically inhomogeneous case, we observe the interaction between the deviatoric components of the elastic fields as well.
+In addition, we calculated the average solute flux between the two precipitates and show that the apparent diffusivity of the system due to the connecting 
+dislocations is the same as the theoretical prediction. Further, the equilibrium compositions at the precipitate-matrix interface are calculated at different points 
+on the precipitate using the modified Gibbs-Thomson equation and compared with the compositions from the simulations. 
+
+Please check out our publication in Philosophical Magazine, provided in the [Publications](https://arjunvarmar.github.io/academic/publications) page for more details!  
  
 
 [Back to top](https://arjunvarmar.github.io/projects)
