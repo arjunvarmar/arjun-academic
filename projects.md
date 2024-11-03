@@ -7,8 +7,8 @@ title: "Projects"
 
 - [Dislocation assisted phase separation and coarsening](#dislocation-assisted-phase-separation-and-coarsening)
 - [Surface diffusion enhanced disintegration of nanowires](#surface-diffusion-enhanced-disintegration-of-nanowires)
-- [Equilibrium stacking fault widths of alloys by DFT-PFDD](#equilibrium-stacking-fault-widths-of-alloys-by-DFT-PFDD)
-- [Electron-phonon interaction corrections in total energy of group IV semiconductors](#electron-phonon-interaction-corrections-in-total-energy-of-group-IV-semiconductors)
+- [Equilibrium stacking fault width of alloys calculated by incorporating GSFE surfaces to PFDD models](#equilibrium-stacking-fault-widths-of-alloys-calculated-by-incorporating-GSFE-surfaces-to-PFDD-models)
+- [Electron-phonon interaction corrections in total energy of group IV semiconductors](#electron-phonon-interaction-corrections-in-total-energy-of-group-iv-semiconductors)
 - [Slip transfer at a boundary in discrete dislocation dynamics](#slip-transfer-at-a-boundary-in-discrete-dislocation-dynamics)
 
 ###### Last updated: October 30, 2024
@@ -93,7 +93,7 @@ Further, the break-up of nanowires were rationalised in terms of their principal
 For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/article/130/19/194301/1061998/Phase-field-study-of-surface-diffusion-enhanced)!
 
 [Back to top](https://arjunvarmar.github.io/projects)
-#### **Equilibrium stacking fault width of alloys by DFT-PFDD**
+#### **Equilibrium stacking fault width of alloys calculated by incorporating GSFE surfaces to PFDD models**
 
 Will be updated soon 
 
