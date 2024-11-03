@@ -16,10 +16,13 @@ title: "Projects"
 
 #### **Dislocation assisted phase separation and coarsening**
 
-Using a phase field dislocation dynamics model, we look at the evolution of phases around edge dislocations in an 
-elastically homogeneous and isotropic system with a miscibility gap. The presence of straight dislocation 
-in such a system with a homogeneous initial composition (outside the spinodal limit) would results in a segregation
-driven precipitation at the dislocation. For a striaght dislocation, the precipitate would look like a cylinder 
+This project formed the two core chapters of my PhD thesis, on phase separation and coarsening respectively, augmented
+by the prescence of dislocations.
+
+First, using a phase field dislocation dynamics model, we looked at the evolution of phases around edge dislocations in an 
+elastically homogeneous and isotropic system that had a spinodal in its phase diagram. The presence of straight dislocation 
+in such a system with a homogeneous initial composition (outside the spinodal limit) resulted in a segregation-driven 
+precipitation at the dislocation. For a striaght dislocation, the precipitate would look like a cylinder 
 with a 'cardioid' cross-section.  
 
 <figure align="center">
@@ -27,13 +30,13 @@ with a 'cardioid' cross-section.
  <figcaption> Solute segregation leads to a cylinder of cardioid section formed along dislocations </figcaption>
 </figure>
 
-However, we are missing an important piece of physics here, namely, the faster diffusivity of solutes along a dislocation, 
+However, we are missing an important piece of physics in the above result, namely, the faster diffusivity of solutes along a dislocation, 
 known in literature as ["pipe diffusion"](https://www.sciencedirect.com/science/article/abs/pii/0001616064902202). 
 By assuming the atomic mobility as a function of the dislocation field, 
-we incorporated the faster pipe diffusivity in our model using a formulation 
+we incorporated the faster pipe diffusivity in our model using a formulation proposed
 by [Zhu et al.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.60.3564). 
 
-And voila, instead of a long precipitate along the dislocation, we see blobs formed along the dislocation line, 
+And voila, instead of a long precipitate along the dislocation, we see blobs formed
 due to the growth of a composition instability. In other words, a localised spinodal at the dislocation line, in a system 
 with an initial composition outside the spinodal limits.  
 
@@ -58,6 +61,16 @@ We have also mapped out the parameter space at which spinodal may be expected in
 prediction of compositions at which localised spinodal might occur has been made for real-world alloys. 
 
 Please check out our publication in Acta Materialia, provided in the [Publications](https://arjunvarmar.github.io/academic/publications) page for more details!
+
+The second project was to look at spherical, coherent precipitates connected by dislocations, in elastically homogeneous and heterogeneous systems, as shown here.
+This scenario is pretty common in several systems, where the precipitates remain coherent for longer durations while coarsening. 
+
+<figure align="center">
+  <img width="80%" height="80%" src="assets/img/dislocation-coarsening/initial_configuration.png">
+  <figcaption> Spherical precipitates connected by dislocations forming the initial configuration </figcaption>
+</figure>
+
+ 
 
 [Back to top](https://arjunvarmar.github.io/projects)
 
