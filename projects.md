@@ -66,9 +66,13 @@ The second project was to look at spherical, coherent precipitates connected by 
 This scenario is pretty common in several systems, where the precipitates remain coherent for longer durations while coarsening. 
 
 <figure align="center">
-  <img width="80%" height="80%" src="assets/img/dislocation-coarsening/initial_configuration.png">
+  <img width="50%" height="50%" src="assets/img/dislocation-coarsening/initial_configuration.png">
   <figcaption> Spherical precipitates connected by dislocations forming the initial configuration </figcaption>
 </figure>
+
+The radii of the two precipitates connected by the dislocationsa are kept at almost similar values, so as to ensure that the larger precipitate grows at the 
+expense of the smaller precipitate. The far-field composition in the matrix phase is taken to be equal to the equilibrium concentration (calculated by 
+modfied Gibbs-Thomson equation) for the smaller precipitate. 
 
  
 
