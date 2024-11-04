@@ -9,7 +9,7 @@ title: "Projects"
 - [Surface diffusion enhanced disintegration of nanowires](#surface-diffusion-enhanced-disintegration-of-nanowires)
 - [Equilibrium stacking fault width of alloys calculated by incorporating GSFE surfaces to PFDD models](#equilibrium-stacking-fault-widths-of-alloys-calculated-by-incorporating-gsfe-surfaces-to-pfdd-models)
 - [Electron-phonon interaction corrections in total energy of group IV semiconductors](#electron-phonon-interaction-corrections-in-total-energy-of-group-iv-semiconductors)
-- [Slip transfer at a boundary in discrete dislocation dynamics](#slip-transfer-at-a-boundary-in-discrete-dislocation-dynamics)
+- [Slip transfer at a boundary in discrete dislocation dynamics simulations](#slip-transfer-at-a-boundary-in-discrete-dislocation-dynamics-simulations)
 
 ###### Last updated: October 30, 2024
 ---
@@ -181,7 +181,7 @@ I started working on this project during the initial years of my PhD, while I wa
 
 
 [Back to top](https://arjunvarmar.github.io/projects)
-#### **Slip transfer at boundaries using discrete dislocation dynamics simulations**
+#### **Slip transfer at a boundary in discrete dislocation dynamics simulations**
 
 This project was part of my six month exchange program to Universit\'e Grenoble Alpes. The idea was to incorporate a slip transfer module in the newly developed discrete dislocation dynamics package named NUMODIS and use it to study strain hardening in polycrystalline systems. The expectation was that a parallel version of NUMODIS would be available, from a different project, by the time our project would begin. However, the parallelization project did not go as planned and there was a severe computational constraint to study any realistic system using our slip transfer module.
 
