@@ -126,7 +126,7 @@ Further, the break-up of nanowires were rationalised in terms of their principal
 For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/article/130/19/194301/1061998/Phase-field-study-of-surface-diffusion-enhanced)!
 
 [Back to top](https://arjunvarmar.github.io/projects)
-#### **Equilibrium stacking fault width of alloys calculated by incorporating GSFE surfaces to PFDD models**
+#### **Equilibrium stacking fault widths of alloys calculated by incorporating GSFE surfaces to PFDD models**
 
 One of the most important attractions of modelling dislocations with phase field dislocation dynamics (PFDD) models is the ease of incorporating partial dislocations. 
 The dissociation of perfect dislocations into partials is prominent in systems with low stacking fault energies. : 
