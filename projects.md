@@ -140,4 +140,13 @@ The dissociation of perfect dislocations into partials is prominent in systems w
 [Back to top](https://arjunvarmar.github.io/projects)
 #### **Slip transfer at boundaries using discrete dislocation dynamics simulations**
 
+This project was part of my six month exchange program to Universit\'e Grenoble Alpes. The idea was to incorporate a slip transfer module in the newly developed discrete dislocation dynamics model named NUMODIS and use it to study strain hardening in polycrystalline materials such as Cu-Al alloys. The expectation was that a parallel version of NUMODIS would be available by the time this project would be started. However, the parallelization project did not go as planned and there was a severe computational constraint to study any realistic system.
+
+Here is an example of slip transfer, where new dislocation loops are nucleated at a grain bouyndary when there is a dislocation pile up in the neighbouring grain. The nucleation of 
+dislocations is carried out based on the Lee, Robertson and Birnbaum criteria (known as LRB criteria in slip transmission literature). 
+
+<figure align="center">
+  <img width="100%" height="100%" src="assets/img/slip-transfer/dislocation-slip-transfer.png">
+  <figcaption> Activation of a slip plane in a grain due to dislocation pile-up from a Frank-Read source in the neighbouring grain.  </figcaption>
+</figure>
 [Back to top](https://arjunvarmar.github.io/projects)
