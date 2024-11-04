@@ -27,8 +27,8 @@ layout: default
       <div class="col-md-10">
         {% for section in site.data.cv.industrial-experience %}
           <p class="fw-bold">{{ section.title }}, {{ section.description }}</p>
-	  {% for responsibilities in section.responsibilities %}
 	  <h6> Responsibilities: </h6>
+	  {% for responsibilities in section.responsibilities %}
 	  <li>{{ responsibilities }}</li>
 	  <p> </p>
 	  {% endfor %}
