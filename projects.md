@@ -142,21 +142,21 @@ energy. The resulting energy landscape consists of several peaks and valleys cor
 It is possible to 
 
 <div style="display: flex; justify-content: center; gap: 10px; border: 1px solid grey;">
-  <figure style="text-align: center; flex: 1;">
-    <img width="100%" src="assets/img/gsfe/wos_0.png" alt="Image 1">
+  <figure style="text-align: center">
+    <img width="100%" src="assets/img/gsfe/wos_0.png" alt="wos 1">
     <figcaption> Dissociation of perfect dislocation loop to leading and trailing partial loops.</figcaption>
   </figure>
 
-  <figure style="text-align: center; flex: 1;">
-    <img width="100%" src="assets/img/gsfe/wos_5.png" alt="Image 2">
+  <figure style="text-align: center">
+    <img width="100%" src="assets/img/gsfe/wos_5.png" alt="wos 5">
   </figure>
 
-  <figure style="text-align: center; flex: 1;">
-    <img width="100%" src="assets/img/gsfe/wos_15.png" alt="Image 3">
+  <figure style="text-align: center">
+    <img width="100%" src="assets/img/gsfe/wos_15.png" alt="wos 15">
   </figure>
 
-  <figure style="text-align: center; flex: 1;">
-    <img width="100%" src="assets/img/gsfe/wos_19.png" alt="Image 4">
+  <figure style="text-align: center">
+    <img width="100%" src="assets/img/gsfe/wos_19.png" alt="wos 19">
   </figure>
 </div>
 
