@@ -1,11 +1,11 @@
 - title : 'Programming languages'
-  description: 'C, C++, GNU Octave / MATLAB, Python, R, Julia (ordered in terms of decreasing expertise)' 
+  description: 'C, C++, GNU Octave / MATLAB, Python, R, Julia' 
 
 - title : 'Parallel programming'
-  description: 'CUDA (intermediate), MPI (beginner level)'
+  description: 'CUDA, MPI'
 
 - title : 'Visualization'
-  description: 'Paraview, Matplotlib, Gnuplot, VisIt'
+  description: 'Paraview, Matplotlib, Gnuplot, VisIt, Povray'
 
 - title : 'Tools and Specialized software'
-  description: 'Git, Latex, ThermoCalc, Mathematica, Jekyll'
+  description: 'Git, Latex, ThermoCalc, Mathematica, Maple, Jekyll'
