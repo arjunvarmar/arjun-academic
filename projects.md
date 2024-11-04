@@ -80,7 +80,7 @@ for the edge connecting dislocation case, leading to slower coarsening kinetics 
 
 <figure align="center">
   <img width="50%" height="50%" src="assets/img/dislocation-coarsening/P1_edge_mixed_screw.png">
-  <figcaption> Different coarsening kinetics for edge, screw and mixed connecting dislocations. The morphology of the shrinking precipiate is also shown. </figcaption>
+  <figcaption> Different coarsening kinetics for edge, screw and mixed connecting dislocations. The morphology of the shrinking precipiate (P\_S) is also shown. </figcaption>
 </figure>
 
 In the elastically homogeneous case, we found that only the edge dislocations elastically interacted with the precipitate, whose misfit was considered to be 
