@@ -11,7 +11,7 @@ title: "Projects"
 - [Electron-phonon interaction corrections in total energy of group IV semiconductors](#electron-phonon-interaction-corrections-in-total-energy-of-group-iv-semiconductors)
 - [Slip transfer at a boundary in discrete dislocation dynamics](#slip-transfer-at-a-boundary-in-discrete-dislocation-dynamics)
 
-###### Last updated: October 30, 2024
+###### Last updated: April, 2024
 ---
 
 #### **Dislocation assisted phase separation and coarsening**
@@ -129,7 +129,7 @@ For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/art
 #### **Equilibrium stacking fault widths of alloys calculated by incorporating GSFE surfaces to PFDD models**
 
 One of the most important attractions of modelling dislocations with phase field dislocation dynamics (PFDD) models is the ease of incorporating partial dislocations. 
-This is possible by the incorporation of generalised stacking fault energy surfaces (or $\gamma$ surfaces) as a term in the total free energy functional. It is possible 
+This is possible by the incorporation of generalised stacking fault energy surfaces (or $$\gamma$$ surfaces) as a term in the total free energy functional. It is possible 
 to calculate the generalised stacking fault energy of a metal by sliding one layer of atoms above another over different distances and calculating the difference in 
 energy. The resulting energy landscape consists of several peaks and valleys corresponding to the crystal structure of the system, as shown for the case of pure Cu in the following figure.
 
