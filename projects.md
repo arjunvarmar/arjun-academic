@@ -131,34 +131,35 @@ For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/art
 One of the most important attractions of modelling dislocations with phase field dislocation dynamics (PFDD) models is the ease of incorporating partial dislocations. 
 This is possible by the incorporation of generalised stacking fault energy surfaces (or $\gamma$ surfaces) as a term in the total free energy functional. It is possible 
 to calculate the generalised stacking fault energy of a metal by sliding one layer of atoms above another over different distances and calculating the difference in 
-energy. The resulting energy landscape consists of several peaks and valleys corresponding to the crystal structure of the system.
+energy. The resulting energy landscape consists of several peaks and valleys corresponding to the crystal structure of the system, as shown for the case of pure Cu in the following figure.
 
 <figure align="center">
-  <img width="100%" height="100%" src="assets/img/gsfe/gsfe.png">
+  <img width="50%" height="50%" src="assets/img/gsfe/gsfe.png">
   <figcaption>  Generalised stacking fault energy surface obtained by measuring the energy difference at the seven points A, G1, G2, G3, G, T1 and T. </figcaption>
 </figure>
 
+Incorporating the GSFE surface into the free energy functional after the approach by Shen and Wang (2003), it is possible to get a perfect dislocation loop to dissociate into a leading and a trailing partial loop. 
 
-It is possible to 
-
-<div style="display: flex; justify-content: center; gap: 10px; border: 1px solid grey;">
-  <figure style="text-align: center">
-    <img width="100%" src="assets/img/gsfe/wos_0.png" alt="wos 1">
-    <figcaption> Dissociation of perfect dislocation loop to leading and trailing partial loops.</figcaption>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <figure style="text-align: center; flex: 1;">
+    <img width="100%" src="assets/img/gsfe/wos_0.jpeg" alt="Image 1">
   </figure>
 
-  <figure style="text-align: center">
-    <img width="100%" src="assets/img/gsfe/wos_5.png" alt="wos 5">
+  <figure style="text-align: center; flex: 1;">
+    <img width="100%" src="assets/img/gsfe/wos_10.jpeg" alt="Image 2">
   </figure>
 
-  <figure style="text-align: center">
-    <img width="100%" src="assets/img/gsfe/wos_15.png" alt="wos 15">
+  <figure style="text-align: center; flex: 1;">
+    <img width="100%" src="assets/img/gsfe/wos_15.jpeg" alt="Image 3">
   </figure>
 
-  <figure style="text-align: center">
-    <img width="100%" src="assets/img/gsfe/wos_19.png" alt="wos 19">
+  <figure style="text-align: center; flex: 1;">
+    <img width="100%" src="assets/img/gsfe/wos_19.jpeg" alt="Image 4">
   </figure>
 </div>
+<figcaption style="text-align: center; margin-top: 10px;">Generalised stacking fault energy surface obtained by measuring the energy difference at the seven points A, G1, G2, G3, G, T1, and T.</figcaption>
+
+
 
 
 [Back to top](https://arjunvarmar.github.io/projects)
