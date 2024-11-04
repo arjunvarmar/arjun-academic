@@ -11,7 +11,7 @@ title: "Projects"
 - [Electron-phonon interaction corrections in total energy of group IV semiconductors](#electron-phonon-interaction-corrections-in-total-energy-of-group-iv-semiconductors)
 - [Slip transfer at a boundary in discrete dislocation dynamics](#slip-transfer-at-a-boundary-in-discrete-dislocation-dynamics)
 
-###### Last updated: April, 2024
+###### Last updated: October 30, 2024
 ---
 
 #### **Dislocation assisted phase separation and coarsening**
@@ -134,7 +134,7 @@ to calculate the generalised stacking fault energy of a metal by sliding one lay
 energy. The resulting energy landscape consists of several peaks and valleys corresponding to the crystal structure of the system, as shown for the case of pure Cu in the following figure.
 
 <figure align="center">
-  <img width="50%" height="50%" src="assets/img/gsfe/gsfe.png">
+  <img width="40%" height="40%" src="assets/img/gsfe/gsfe.png">
   <figcaption>  Generalised stacking fault energy surface obtained by measuring the energy difference at the seven points A, G1, G2, G3, G, T1 and T. </figcaption>
 </figure>
 
