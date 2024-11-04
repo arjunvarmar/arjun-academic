@@ -138,7 +138,7 @@ energy. The resulting energy landscape consists of several peaks and valleys cor
   <figcaption>  Generalised stacking fault energy surface obtained by measuring the energy difference at the seven points A, G1, G2, G3, G, T1 and T. </figcaption>
 </figure>
 
-Incorporating the GSFE surface into the free energy functional after the approach by Shen and Wang (2003), it is possible to get a perfect dislocation loop to dissociate into a leading and a trailing partial loop. 
+Incorporating the GSFE surface into the free energy functional after the approach by Shen and Wang (2003), it is possible to get a perfect dislocation to dissociate into a leading and a trailing partial dislocation.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <figure style="text-align: center; flex: 1;">
@@ -157,10 +157,16 @@ Incorporating the GSFE surface into the free energy functional after the approac
     <img width="100%" src="assets/img/gsfe/wos_19.jpeg" alt="Image 4">
   </figure>
 </div>
-<figcaption style="text-align: center; margin-top: 10px;">Generalised stacking fault energy surface obtained by measuring the energy difference at the seven points A, G1, G2, G3, G, T1, and T.</figcaption>
+<figcaption style="text-align: center; margin-top: 10px;">Dissociation of a perfect dislocation loop to leading and trailing dislocation loops in pure Cu. The loops shrink and get annihilated in the absence of an external load. </figcaption>
 
+The dislocations are located by taking the derivative of the cumulative displacement that is a combination of all three Burgers vectors in the slip plane. 
 
+<figure align="center">
+  <img width="50%" height="50%" src="assets/img/gsfe/delta.png">
+  <figcaption>  The position of the leading and trailing dislocation are obtained by the derivative of the cumulative displacement (sum of Burgers vectors weighted by the order parameter for each slip system)  </figcaption>
+</figure>
 
+It is also possible to measure the equilibrium stacking fault of the system using this method. We are currently preparing a manuscript studying the variation in the equilibrium stacking fault width in Cu-Al system at different Al concentrations.
 
 [Back to top](https://arjunvarmar.github.io/projects)
 
