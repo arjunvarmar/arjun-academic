@@ -135,9 +135,30 @@ energy. The resulting energy landscape consists of several peaks and valleys cor
 
 <figure align="center">
   <img width="100%" height="100%" src="assets/img/gsfe/gsfe.png">
-  <figcaption> The generalised stacking fault energy surface  </figcaption>
+  <figcaption>  Generalised stacking fault energy surface obtained by measuring the energy difference at the seven points A, G1, G2, G3, G, T1 and T. </figcaption>
 </figure>
 
+
+It is possible to 
+
+<div style="display: flex; justify-content: center; gap: 10px; border: 1px solid grey;">
+  <figure style="text-align: center; flex: 1;">
+    <img width="100%" src="assets/img/gsfe/wos_0.png" alt="Image 1">
+    <figcaption> Dissociation of perfect dislocation loop to leading and trailing partial loops.</figcaption>
+  </figure>
+
+  <figure style="text-align: center; flex: 1;">
+    <img width="100%" src="assets/img/gsfe/wos_5.png" alt="Image 2">
+  </figure>
+
+  <figure style="text-align: center; flex: 1;">
+    <img width="100%" src="assets/img/gsfe/wos_15.png" alt="Image 3">
+  </figure>
+
+  <figure style="text-align: center; flex: 1;">
+    <img width="100%" src="assets/img/gsfe/wos_19.png" alt="Image 4">
+  </figure>
+</div>
 
 
 [Back to top](https://arjunvarmar.github.io/projects)
