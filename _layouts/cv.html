@@ -15,6 +15,7 @@ layout: default
         {% for section in site.data.cv.education %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
+          <p>{{ section.topic}}</p>
         {% endfor %}
       </div>
     </div>
@@ -26,9 +27,10 @@ layout: default
       <div class="col-md-10">
         {% for section in site.data.cv.industrial-experience %}
           <p class="fw-bold">{{ section.title }}</p>
+	  <h6> Role: </h6>
           <p>{{ section.description }}</p>
 	  {% for responsibilities in section.responsibilities %}
-	  <h6> Responsibilities </h6>
+	  <h6> Responsibilities: </h6>
 	  <li>{{ responsibilities }}</li>
 	  {% endfor %}
         {% endfor %}
