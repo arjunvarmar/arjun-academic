@@ -129,18 +129,26 @@ For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/art
 #### **Equilibrium stacking fault widths of alloys calculated by incorporating GSFE surfaces to PFDD models**
 
 One of the most important attractions of modelling dislocations with phase field dislocation dynamics (PFDD) models is the ease of incorporating partial dislocations. 
-The dissociation of perfect dislocations into partials is prominent in systems with low stacking fault energies. : 
+This is possible by the incorporation of generalised stacking fault energy surfaces (or $\gamma$ surfaces) as a term in the total free energy functional. It is possible 
+to calculate the generalised stacking fault energy of a metal by sliding one layer of atoms above another over different distances and calculating the difference in 
+energy. The resulting energy landscape consists of several peaks and valleys corresponding to the crystal structure of the system.
+
+<figure align="center">
+  <img width="100%" height="100%" src="assets/img/gsfe/gsfe.png">
+  <figcaption> The generalised stacking fault energy surface  </figcaption>
+</figure>
+
 
 
 [Back to top](https://arjunvarmar.github.io/projects)
 
 #### **Electron-phonon interaction corrections in total energy of group IV semiconductors**
 
-I started working on this project during the initial years of my PhD, while I was still trying to figure out what my thesis would be. The core idea of this project is the brainchild of Professor T R S Prasanna at MEMS, IITB. Basically, in DFT studies, the stability order of polymorphs is calculated by comparing their total energies, correcting for van der Waals (vdW) and zero-point vibrational energy (ZPVE) contributions. However, the electron-phonon interaction is also important in these calculations and can alter the energy difference between the different polytypes of carbon, silicon and silicon carbide. 
+I started working on this project during the initial years of my PhD, while I was still trying to figure out what my thesis should be on. The core idea and the theoretical basis of this project belongs to Professor T R S Prasanna at MEMS, IITB. Basically, in DFT studies, the stability order of polymorphs is calculated by comparing their total energies, correcting for van der Waals (vdW) and zero-point vibrational energy (ZPVE) contributions. However, the electron-phonon interaction is also important in these calculations and can alter the energy difference between the different polytypes of carbon, silicon and silicon carbide. The incorporation of EPI corrections to the total energy was carried out by building on Allen's formalism for quasiparticle interactions and Allen-Heine theory for electron-phonon interaction contributions at the zero point. It is observed that the EPI contribution is more sensitive to the crystal structure than the other two corrections and is an essential component of the total energy of the system. Although I do not want to claim density functional theory to be an area of my expertise, the experience with this project has made me confident enough to engage in collaboration with DFT experts.
 
 <figure align="center">
-  <img width="100%" height="100%" src="assets/img/electron-phonon/images_medium_ao2c08244_0003.gif">
-  <figcaption> Slip transfer by dislocation nucleation at the grain boundary due to dislocation pile-up from a Frank-Read source in the neighbouring grain.  </figcaption>
+  <img width="50%" height="50%" src="assets/img/electron-phonon/images_medium_ao2c08244_0003.gif">
+  <figcaption> EPI correction to the total energy as a function of the inverse of number of q-points.  </figcaption>
 </figure>
 
 
