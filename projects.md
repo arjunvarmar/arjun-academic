@@ -7,7 +7,7 @@ title: "Projects"
 
 - [Dislocation assisted phase separation and coarsening](#dislocation-assisted-phase-separation-and-coarsening)
 - [Surface diffusion enhanced disintegration of nanowires](#surface-diffusion-enhanced-disintegration-of-nanowires)
-- [Equilibrium stacking fault width of alloys calculated by incorporating GSFE surfaces to PFDD models](#equilibrium-stacking-fault-widths-of-alloys-calculated-by-incorporating-gsfe-surfaces-to-pfdd-models)
+- [Equilibrium stacking fault widths of alloys calculated by multiscale DFT PFDD model incorporating GSFE surfaces to free energy functional](#eqilibrium-stacking-fault-widths-of-alloys-calculated-by-multiscale-dft-pfdd-model-icorporating-gsfe-surfaces-to-free-energy-functional )
 - [Electron-phonon interaction corrections in total energy of group IV semiconductors](#electron-phonon-interaction-corrections-in-total-energy-of-group-iv-semiconductors)
 - [Slip transfer at a boundary in discrete dislocation dynamics simulations](#slip-transfer-at-a-boundary-in-discrete-dislocation-dynamics-simulations)
 
@@ -126,11 +126,11 @@ Further, the break-up of nanowires were rationalised in terms of their principal
 For more details, here is a link to our [paper](https://pubs.aip.org/aip/jap/article/130/19/194301/1061998/Phase-field-study-of-surface-diffusion-enhanced)!
 
 [Back to top](https://arjunvarmar.github.io/projects)
-#### **Equilibrium stacking fault widths of alloys calculated by incorporating GSFE surfaces to PFDD models**
+#### **Equilibrium stacking fault widths of alloys calculated by multiscale DFT-PFDD model incorporating GSFE surfaces to free energy functional**
 
 One of the most important attractions of modelling dislocations with phase field dislocation dynamics (PFDD) models is the ease of incorporating partial dislocations. 
 This is possible by the incorporation of generalised stacking fault energy surfaces (or $$\gamma$$ surfaces) as a term in the total free energy functional. It is possible 
-to calculate the generalised stacking fault energy of a metal by sliding one layer of atoms above another over different distances and calculating the difference in 
+to calculate the generalised stacking fault energy of a metal using density functional theory (DFT) or molecular dynamics (MD) simulations by sliding one layer of atoms above another over different distances and calculating the difference in 
 energy. The resulting energy landscape consists of several peaks and valleys corresponding to the crystal structure of the system, as shown for the case of pure Cu in the following figure.
 
 <figure align="center">
