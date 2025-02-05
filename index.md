@@ -7,11 +7,11 @@ Hello, and welcome to my homepage!
 
 I am a computational materials scientist, currently working with [Prof. Conrard Feugmo](https://uwaterloo.ca/chemistry/profile/cgtetsas) 
 at the [Feugmo research group](https://uwaterloo.ca/feugmo-research-group/) in the 
-department of Chemistry at University of Waterloo as a postdoc. Here, we are trying 
-to develop phase field crystal (PFC) models for multi-component systems with an aim 
-of studying refractory high entropy alloys that could be candidate materials for 
-gen IV nuclear reactors. In addition, we are also trying to come up with a 
-phase field model for corrosion of metallic systems in molten salts, 
+department of Chemistry at University of Waterloo as a postdoc. Here, we are trying to modify 
+phase field crystal models by incorporating three-point correlation functions for complex 
+crystal structures in order to study defect interactions in complex concentrated alloys and 
+diffusion of Lithium ions through graphite electrodes in a Lithium-ion battery. In addition, 
+we are also trying to come up with a phase field model for corrosion of metallic systems in molten salts, 
 with material parameters informed by atomistic simulations.
 
 Before coming to Canada, I completed my PhD from the department 
